@@ -1,9 +1,8 @@
 
 ![imagen](https://user-images.githubusercontent.com/110174766/207089375-bbf334fb-d93b-4225-9e99-58af79b217a0.png)
 
-# Equipo_Adverbio
-
 # Detector de mensajes tóxicos en comentarios de videos de Youtube
+
 Generación de un modelo  entrenado de Machine Leraning para la detección de mensajes de odio en comentarios de videos de Youtube.
 
 ## Despliegue del modelo
