@@ -8,6 +8,9 @@ Generación de un modelo  entrenado de Machine Leraning para la detección de me
 ## Despliegue del modelo
 El modelo se despliega en un dash de Streamlit, donde se puede introducir un comentario y el modelo nos predice si es Tóxico o no lo es.
 
+![imagen](https://user-images.githubusercontent.com/110174766/207091093-7167c460-1512-4927-a6e2-37c0224362bc.png)
+
+
 ## Estructura de este repositorio
 
 |  Fichero               |.           Descripción                                                            |
