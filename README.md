@@ -1,8 +1,7 @@
+
+![imagen](https://user-images.githubusercontent.com/110174766/207089375-bbf334fb-d93b-4225-9e99-58af79b217a0.png)
+
 # Equipo_Adverbio
-<img src="https://github.com/Factoria-F5-AI-Bootcamp-1-Edicion/proyecto_universidad/blob/feature/login_and_profesor/logo-color.png" width="100px"><img src="https://user-images.githubusercontent.com/110174766/200622165-764b812a-c86f-4ffc-823f-ba7d43db282e.png" width="700px">
-
-palabras.png![imagen](https://user-images.githubusercontent.com/110174766/207088677-ee7e7864-0655-4487-8f0c-beb6552176e3.png)
-
 
 # Detector de mensajes tóxicos en comentarios de videos de Youtube
 Generación de un modelo  entrenado de Machine Leraning para la detección de mensajes de odio en comentarios de videos de Youtube.
