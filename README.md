@@ -15,6 +15,8 @@ Para cargar este despliegue se debe utilizar el siguiente comando: `streamlit ru
 
 ![image](https://user-images.githubusercontent.com/108665441/207269025-f4e9c5e3-0500-4af2-b663-8b8071f333ad.png)
 
+El despliegue se realizará en el localhost donde se podrá ingresar manualmente el comentario que quieres evaluar si es tóxico o no. 
+
 ![imagen](https://user-images.githubusercontent.com/110174766/207091093-7167c460-1512-4927-a6e2-37c0224362bc.png)
 
 
