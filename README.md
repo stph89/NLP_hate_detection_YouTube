@@ -1,5 +1,4 @@
 
-![imagen](https://user-images.githubusercontent.com/110174766/207089375-bbf334fb-d93b-4225-9e99-58af79b217a0.png)
 
 # Detector de mensajes tóxicos en comentarios de videos de Youtube
 
@@ -35,3 +34,6 @@ El despliegue se realizará en el localhost donde se podrá ingresar manualmente
 
 ## Instalar todos los paquetes y librerias del fichero:
 `requirements.txt`
+
+![imagen](https://user-images.githubusercontent.com/110174766/207089375-bbf334fb-d93b-4225-9e99-58af79b217a0.png)
+
