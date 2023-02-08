@@ -3,6 +3,8 @@
 
 # Detector de mensajes tóxicos en comentarios de videos de Youtube
 
+By [Alexandra Mendoza](https://github.com/Alexandra121297); , [Javier Inglés](https://github.com/Javingles);, [Begoña Ortiz](https://github.com/bego2022); y [Stephany Valderrama](https://github.com/stph89).
+
 Generación de un modelo  entrenado de Machine Learning para la detección de mensajes de odio en comentarios de videos de Youtube.
 
 
